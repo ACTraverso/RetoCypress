@@ -1,0 +1,23 @@
+{
+  "name": "retocypress",
+  "version": "1.0.0",
+  "description": "Entrenamiento Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACTraverso/RetoCypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ACTraverso/RetoCypress/issues"
+  },
+  "homepage": "https://github.com/ACTraverso/RetoCypress#readme",
+  "dependencies": {
+    "cypress": "^14.0.0"
+  },
+  "keywords": []
+}
