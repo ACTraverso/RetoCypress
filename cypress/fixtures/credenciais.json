@@ -1,0 +1,13 @@
+{
+  "emails":{
+    "email_valido": "validemail@cypress.com",
+    "email_invalido": "a@b",
+    "email_validoE": "siempreNuevo@cypress.com"
+
+  },
+  "passwords":{
+    "password_valido": "validPass",
+    "password_invalido": "abc",
+    "password_validoE": "validPass"
+  }
+}

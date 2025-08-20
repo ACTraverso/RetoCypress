@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1755728243272' stop='1755728261145'>
+    <name>Realizar Compra</name>
+    <title>Realizar Compra</title>
+    <test-cases>
+        <test-case start='1755728243272' status='failed' stop='1755728261143'>
+            <name>Realizar compra con sucesso</name>
+            <title>Realizar compra con sucesso</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Timed out retrying after 4000ms: Expected to find content: 'Item' but never did.</message>
+                <stack-trace>AssertionError: Timed out retrying after 4000ms: Expected to find content: 'Item' but never did.
+                    at Context.eval (webpack://retocypress/./cypress/e2e/RealizarCompra.cy.js:64:28)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

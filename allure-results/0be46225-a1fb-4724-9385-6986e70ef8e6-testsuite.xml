@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1755718031856' stop='1755718082415'>
+    <name>Realizar Login</name>
+    <title>Realizar Login</title>
+    <test-cases>
+        <test-case start='1755718031856' status='passed' stop='1755718049456'>
+            <name>Realizar Login com sucesso</name>
+            <title>Realizar Login com sucesso</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1755718049502' status='passed' stop='1755718056368'>
+            <name>Realizar Login com Email y Pass com error</name>
+            <title>Realizar Login com Email y Pass com error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1755718056445' status='passed' stop='1755718063402'>
+            <name>Realizar Login com Email valido y Pass com error</name>
+            <title>Realizar Login com Email valido y Pass com error</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1755718063454' status='passed' stop='1755718069233'>
+            <name>Realizar Login com Email com error y Pass com valido</name>
+            <title>Realizar Login com Email com error y Pass com valido</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1755718069285' status='passed' stop='1755718073060'>
+            <name>Realizar Login sin informar Email</name>
+            <title>Realizar Login sin informar Email</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1755718073247' status='passed' stop='1755718077919'>
+            <name>Realizar Login sin informar Pass</name>
+            <title>Realizar Login sin informar Pass</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1755718077969' status='passed' stop='1755718082414'>
+            <name>Realizar Login sin informar Email y Pass</name>
+            <title>Realizar Login sin informar Email y Pass</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

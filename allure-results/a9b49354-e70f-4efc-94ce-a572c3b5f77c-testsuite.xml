@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1755718091115' stop='1755718102315'>
+    <name>Realizar Usuario</name>
+    <title>Realizar Usuario</title>
+    <test-cases>
+        <test-case start='1755718091115' status='failed' stop='1755718102313'>
+            <name>Crear usuario com sucesso</name>
+            <title>Crear usuario com sucesso</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Timed out retrying after 4000ms: Expected to find content: 'Enter Account Information' but never did.</message>
+                <stack-trace>AssertionError: Timed out retrying after 4000ms: Expected to find content: 'Enter Account Information' but never did.
+                    at Context.eval (webpack://retocypress/./cypress/e2e/CrearUsuario.cy.js:26:49)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
